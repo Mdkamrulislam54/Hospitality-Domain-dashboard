@@ -50,9 +50,6 @@ See [`docs/metrics_dictionary.md`](docs/metrics_dictionary.md) for definitions o
 
 ## 📷 Screenshots
 
-![Key Insights](assets/key_insights_screenshot.png)
-![Summary](assets/summary_screenshot.png)
+![Summary](https://github.com/Mdkamrulislam54/Hospitality-Domain-dashboard/blob/main/Hospitality%20Domain%20Dashboard-%20Summary.png)
+![Key Insights](https://github.com/Mdkamrulislam54/Hospitality-Domain-dashboard/blob/main/Hospitality%20Domain%20dashboard%20-%20Key%20Insights.png)
 
-## 📄 License
-
-MIT License
